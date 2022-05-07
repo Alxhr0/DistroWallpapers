@@ -2,9 +2,9 @@
 
 Here we will store many wallpapers from various distros.
 
-I would like to mention that **none of these wallpapers are owned by us**.
+# Info
+None of these wallpapers are owned by the contributors unless specified, If you have made a wallpaper shown here and would like credits/removal of the wallpaper, please create a githubissue.
 
-If you have made a wallpaper shown here and would like credits/removal of the wallpaper, please create a github issue.
 
 # FAQ
 
