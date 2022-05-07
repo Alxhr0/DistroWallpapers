@@ -22,7 +22,7 @@ If you have made a wallpaper shown here and would like credits/removal of the wa
 
 # Contributors 
 
-@AloneERO - Created the repo and contributes wallpapers
+@AloneER0 - Created the repo and contributes wallpapers
 
 @radbirb - Contributes wallpapers
 
