@@ -4,6 +4,8 @@ Here we will store many wallpapers from various distros.
 
 I would like to mention that **none of these wallpapers are owned by us**.
 
+If you have made a wallpaper shown here and would like credits/removal of the wallpaper, please create a github issue.
+
 # FAQ
 
 1.  Why this repo exists?
@@ -17,3 +19,11 @@ I would like to mention that **none of these wallpapers are owned by us**.
 3. Are there gonna be only wallpapers from distros?
 
    At the moment yes.
+
+# Contributors 
+
+@AloneERO - Created the repo and contributes wallpapers
+@radbirb - Contributes wallpapers
+
+
+
