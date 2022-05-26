@@ -17,7 +17,7 @@ const config = {
     },
   ],
   title: "Distro Wallpapers",
-  url: "https://distrowall.pages.dev/",
+  url: "https://distrowall.pages.dev",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
