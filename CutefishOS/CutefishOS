@@ -1,0 +1,162 @@
+[
+  {
+    "name": "default.jpg",
+    "path": "CutefishOS/default.jpg",
+    "sha": "3f1dfd4b85f5da9ceaf09700ee9a486d95c56b8a",
+    "size": 852537,
+    "url": "https://api.github.com/repos/AloneER0/DistroWallpapers/contents/CutefishOS/default.jpg?ref=main",
+    "html_url": "https://github.com/AloneER0/DistroWallpapers/blob/main/CutefishOS/default.jpg",
+    "git_url": "https://api.github.com/repos/AloneER0/DistroWallpapers/git/blobs/3f1dfd4b85f5da9ceaf09700ee9a486d95c56b8a",
+    "download_url": "https://raw.githubusercontent.com/AloneER0/DistroWallpapers/main/CutefishOS/default.jpg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/AloneER0/DistroWallpapers/contents/CutefishOS/default.jpg?ref=main",
+      "git": "https://api.github.com/repos/AloneER0/DistroWallpapers/git/blobs/3f1dfd4b85f5da9ceaf09700ee9a486d95c56b8a",
+      "html": "https://github.com/AloneER0/DistroWallpapers/blob/main/CutefishOS/default.jpg"
+    }
+  },
+  {
+    "name": "wallpaper-1.jpg",
+    "path": "CutefishOS/wallpaper-1.jpg",
+    "sha": "6d21c11566935f8248e290ef23563beb9fa549bc",
+    "size": 180362,
+    "url": "https://api.github.com/repos/AloneER0/DistroWallpapers/contents/CutefishOS/wallpaper-1.jpg?ref=main",
+    "html_url": "https://github.com/AloneER0/DistroWallpapers/blob/main/CutefishOS/wallpaper-1.jpg",
+    "git_url": "https://api.github.com/repos/AloneER0/DistroWallpapers/git/blobs/6d21c11566935f8248e290ef23563beb9fa549bc",
+    "download_url": "https://raw.githubusercontent.com/AloneER0/DistroWallpapers/main/CutefishOS/wallpaper-1.jpg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/AloneER0/DistroWallpapers/contents/CutefishOS/wallpaper-1.jpg?ref=main",
+      "git": "https://api.github.com/repos/AloneER0/DistroWallpapers/git/blobs/6d21c11566935f8248e290ef23563beb9fa549bc",
+      "html": "https://github.com/AloneER0/DistroWallpapers/blob/main/CutefishOS/wallpaper-1.jpg"
+    }
+  },
+  {
+    "name": "wallpaper-2.jpg",
+    "path": "CutefishOS/wallpaper-2.jpg",
+    "sha": "9dc62d4196366675fc93460396bc46275dbe794c",
+    "size": 328631,
+    "url": "https://api.github.com/repos/AloneER0/DistroWallpapers/contents/CutefishOS/wallpaper-2.jpg?ref=main",
+    "html_url": "https://github.com/AloneER0/DistroWallpapers/blob/main/CutefishOS/wallpaper-2.jpg",
+    "git_url": "https://api.github.com/repos/AloneER0/DistroWallpapers/git/blobs/9dc62d4196366675fc93460396bc46275dbe794c",
+    "download_url": "https://raw.githubusercontent.com/AloneER0/DistroWallpapers/main/CutefishOS/wallpaper-2.jpg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/AloneER0/DistroWallpapers/contents/CutefishOS/wallpaper-2.jpg?ref=main",
+      "git": "https://api.github.com/repos/AloneER0/DistroWallpapers/git/blobs/9dc62d4196366675fc93460396bc46275dbe794c",
+      "html": "https://github.com/AloneER0/DistroWallpapers/blob/main/CutefishOS/wallpaper-2.jpg"
+    }
+  },
+  {
+    "name": "wallpaper-3.jpg",
+    "path": "CutefishOS/wallpaper-3.jpg",
+    "sha": "fb8f08f1ad1a5503fa797f4d9f09fda0a441d1cc",
+    "size": 190411,
+    "url": "https://api.github.com/repos/AloneER0/DistroWallpapers/contents/CutefishOS/wallpaper-3.jpg?ref=main",
+    "html_url": "https://github.com/AloneER0/DistroWallpapers/blob/main/CutefishOS/wallpaper-3.jpg",
+    "git_url": "https://api.github.com/repos/AloneER0/DistroWallpapers/git/blobs/fb8f08f1ad1a5503fa797f4d9f09fda0a441d1cc",
+    "download_url": "https://raw.githubusercontent.com/AloneER0/DistroWallpapers/main/CutefishOS/wallpaper-3.jpg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/AloneER0/DistroWallpapers/contents/CutefishOS/wallpaper-3.jpg?ref=main",
+      "git": "https://api.github.com/repos/AloneER0/DistroWallpapers/git/blobs/fb8f08f1ad1a5503fa797f4d9f09fda0a441d1cc",
+      "html": "https://github.com/AloneER0/DistroWallpapers/blob/main/CutefishOS/wallpaper-3.jpg"
+    }
+  },
+  {
+    "name": "wallpaper-4.jpg",
+    "path": "CutefishOS/wallpaper-4.jpg",
+    "sha": "4f7f97ae5e3128636b776e4a4991c7a186b5a294",
+    "size": 419002,
+    "url": "https://api.github.com/repos/AloneER0/DistroWallpapers/contents/CutefishOS/wallpaper-4.jpg?ref=main",
+    "html_url": "https://github.com/AloneER0/DistroWallpapers/blob/main/CutefishOS/wallpaper-4.jpg",
+    "git_url": "https://api.github.com/repos/AloneER0/DistroWallpapers/git/blobs/4f7f97ae5e3128636b776e4a4991c7a186b5a294",
+    "download_url": "https://raw.githubusercontent.com/AloneER0/DistroWallpapers/main/CutefishOS/wallpaper-4.jpg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/AloneER0/DistroWallpapers/contents/CutefishOS/wallpaper-4.jpg?ref=main",
+      "git": "https://api.github.com/repos/AloneER0/DistroWallpapers/git/blobs/4f7f97ae5e3128636b776e4a4991c7a186b5a294",
+      "html": "https://github.com/AloneER0/DistroWallpapers/blob/main/CutefishOS/wallpaper-4.jpg"
+    }
+  },
+  {
+    "name": "wallpaper-5.jpg",
+    "path": "CutefishOS/wallpaper-5.jpg",
+    "sha": "9e48666f6c0d3dd3ba25befb6b3475b80f03b068",
+    "size": 145088,
+    "url": "https://api.github.com/repos/AloneER0/DistroWallpapers/contents/CutefishOS/wallpaper-5.jpg?ref=main",
+    "html_url": "https://github.com/AloneER0/DistroWallpapers/blob/main/CutefishOS/wallpaper-5.jpg",
+    "git_url": "https://api.github.com/repos/AloneER0/DistroWallpapers/git/blobs/9e48666f6c0d3dd3ba25befb6b3475b80f03b068",
+    "download_url": "https://raw.githubusercontent.com/AloneER0/DistroWallpapers/main/CutefishOS/wallpaper-5.jpg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/AloneER0/DistroWallpapers/contents/CutefishOS/wallpaper-5.jpg?ref=main",
+      "git": "https://api.github.com/repos/AloneER0/DistroWallpapers/git/blobs/9e48666f6c0d3dd3ba25befb6b3475b80f03b068",
+      "html": "https://github.com/AloneER0/DistroWallpapers/blob/main/CutefishOS/wallpaper-5.jpg"
+    }
+  },
+  {
+    "name": "wallpaper-6.jpg",
+    "path": "CutefishOS/wallpaper-6.jpg",
+    "sha": "e12b71ffd623e06bbec6746b6d1f5081fa1f637e",
+    "size": 383376,
+    "url": "https://api.github.com/repos/AloneER0/DistroWallpapers/contents/CutefishOS/wallpaper-6.jpg?ref=main",
+    "html_url": "https://github.com/AloneER0/DistroWallpapers/blob/main/CutefishOS/wallpaper-6.jpg",
+    "git_url": "https://api.github.com/repos/AloneER0/DistroWallpapers/git/blobs/e12b71ffd623e06bbec6746b6d1f5081fa1f637e",
+    "download_url": "https://raw.githubusercontent.com/AloneER0/DistroWallpapers/main/CutefishOS/wallpaper-6.jpg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/AloneER0/DistroWallpapers/contents/CutefishOS/wallpaper-6.jpg?ref=main",
+      "git": "https://api.github.com/repos/AloneER0/DistroWallpapers/git/blobs/e12b71ffd623e06bbec6746b6d1f5081fa1f637e",
+      "html": "https://github.com/AloneER0/DistroWallpapers/blob/main/CutefishOS/wallpaper-6.jpg"
+    }
+  },
+  {
+    "name": "wallpaper-7.jpg",
+    "path": "CutefishOS/wallpaper-7.jpg",
+    "sha": "894bc784f9f5d4e7e595e6858c6e2224412ac46a",
+    "size": 322482,
+    "url": "https://api.github.com/repos/AloneER0/DistroWallpapers/contents/CutefishOS/wallpaper-7.jpg?ref=main",
+    "html_url": "https://github.com/AloneER0/DistroWallpapers/blob/main/CutefishOS/wallpaper-7.jpg",
+    "git_url": "https://api.github.com/repos/AloneER0/DistroWallpapers/git/blobs/894bc784f9f5d4e7e595e6858c6e2224412ac46a",
+    "download_url": "https://raw.githubusercontent.com/AloneER0/DistroWallpapers/main/CutefishOS/wallpaper-7.jpg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/AloneER0/DistroWallpapers/contents/CutefishOS/wallpaper-7.jpg?ref=main",
+      "git": "https://api.github.com/repos/AloneER0/DistroWallpapers/git/blobs/894bc784f9f5d4e7e595e6858c6e2224412ac46a",
+      "html": "https://github.com/AloneER0/DistroWallpapers/blob/main/CutefishOS/wallpaper-7.jpg"
+    }
+  },
+  {
+    "name": "wallpaper-8.jpg",
+    "path": "CutefishOS/wallpaper-8.jpg",
+    "sha": "ff6afbc3ad7d10419345ce774418c3cff06dd12d",
+    "size": 422113,
+    "url": "https://api.github.com/repos/AloneER0/DistroWallpapers/contents/CutefishOS/wallpaper-8.jpg?ref=main",
+    "html_url": "https://github.com/AloneER0/DistroWallpapers/blob/main/CutefishOS/wallpaper-8.jpg",
+    "git_url": "https://api.github.com/repos/AloneER0/DistroWallpapers/git/blobs/ff6afbc3ad7d10419345ce774418c3cff06dd12d",
+    "download_url": "https://raw.githubusercontent.com/AloneER0/DistroWallpapers/main/CutefishOS/wallpaper-8.jpg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/AloneER0/DistroWallpapers/contents/CutefishOS/wallpaper-8.jpg?ref=main",
+      "git": "https://api.github.com/repos/AloneER0/DistroWallpapers/git/blobs/ff6afbc3ad7d10419345ce774418c3cff06dd12d",
+      "html": "https://github.com/AloneER0/DistroWallpapers/blob/main/CutefishOS/wallpaper-8.jpg"
+    }
+  },
+  {
+    "name": "wallpaper-9.jpg",
+    "path": "CutefishOS/wallpaper-9.jpg",
+    "sha": "b276867b89c4ef2dde7548b2cdb436e472ca0788",
+    "size": 171910,
+    "url": "https://api.github.com/repos/AloneER0/DistroWallpapers/contents/CutefishOS/wallpaper-9.jpg?ref=main",
+    "html_url": "https://github.com/AloneER0/DistroWallpapers/blob/main/CutefishOS/wallpaper-9.jpg",
+    "git_url": "https://api.github.com/repos/AloneER0/DistroWallpapers/git/blobs/b276867b89c4ef2dde7548b2cdb436e472ca0788",
+    "download_url": "https://raw.githubusercontent.com/AloneER0/DistroWallpapers/main/CutefishOS/wallpaper-9.jpg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/AloneER0/DistroWallpapers/contents/CutefishOS/wallpaper-9.jpg?ref=main",
+      "git": "https://api.github.com/repos/AloneER0/DistroWallpapers/git/blobs/b276867b89c4ef2dde7548b2cdb436e472ca0788",
+      "html": "https://github.com/AloneER0/DistroWallpapers/blob/main/CutefishOS/wallpaper-9.jpg"
+    }
+  }
+]

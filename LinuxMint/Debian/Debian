@@ -1,0 +1,50 @@
+[
+  {
+    "name": "edesigner_linuxmint.png",
+    "path": "LinuxMint/Debian/edesigner_linuxmint.png",
+    "sha": "abbdf252bb045a57e4c920716e88df3f77721e45",
+    "size": 1237565,
+    "url": "https://api.github.com/repos/AloneER0/DistroWallpapers/contents/LinuxMint/Debian/edesigner_linuxmint.png?ref=main",
+    "html_url": "https://github.com/AloneER0/DistroWallpapers/blob/main/LinuxMint/Debian/edesigner_linuxmint.png",
+    "git_url": "https://api.github.com/repos/AloneER0/DistroWallpapers/git/blobs/abbdf252bb045a57e4c920716e88df3f77721e45",
+    "download_url": "https://raw.githubusercontent.com/AloneER0/DistroWallpapers/main/LinuxMint/Debian/edesigner_linuxmint.png",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/AloneER0/DistroWallpapers/contents/LinuxMint/Debian/edesigner_linuxmint.png?ref=main",
+      "git": "https://api.github.com/repos/AloneER0/DistroWallpapers/git/blobs/abbdf252bb045a57e4c920716e88df3f77721e45",
+      "html": "https://github.com/AloneER0/DistroWallpapers/blob/main/LinuxMint/Debian/edesigner_linuxmint.png"
+    }
+  },
+  {
+    "name": "linuxmint.jpg",
+    "path": "LinuxMint/Debian/linuxmint.jpg",
+    "sha": "7562750430d12508b081c3e1281540e66715138c",
+    "size": 745562,
+    "url": "https://api.github.com/repos/AloneER0/DistroWallpapers/contents/LinuxMint/Debian/linuxmint.jpg?ref=main",
+    "html_url": "https://github.com/AloneER0/DistroWallpapers/blob/main/LinuxMint/Debian/linuxmint.jpg",
+    "git_url": "https://api.github.com/repos/AloneER0/DistroWallpapers/git/blobs/7562750430d12508b081c3e1281540e66715138c",
+    "download_url": "https://raw.githubusercontent.com/AloneER0/DistroWallpapers/main/LinuxMint/Debian/linuxmint.jpg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/AloneER0/DistroWallpapers/contents/LinuxMint/Debian/linuxmint.jpg?ref=main",
+      "git": "https://api.github.com/repos/AloneER0/DistroWallpapers/git/blobs/7562750430d12508b081c3e1281540e66715138c",
+      "html": "https://github.com/AloneER0/DistroWallpapers/blob/main/LinuxMint/Debian/linuxmint.jpg"
+    }
+  },
+  {
+    "name": "sele_linuxmint.png",
+    "path": "LinuxMint/Debian/sele_linuxmint.png",
+    "sha": "43f65ee3a7b8d1ff3d6ca96710954dff43108bf0",
+    "size": 956044,
+    "url": "https://api.github.com/repos/AloneER0/DistroWallpapers/contents/LinuxMint/Debian/sele_linuxmint.png?ref=main",
+    "html_url": "https://github.com/AloneER0/DistroWallpapers/blob/main/LinuxMint/Debian/sele_linuxmint.png",
+    "git_url": "https://api.github.com/repos/AloneER0/DistroWallpapers/git/blobs/43f65ee3a7b8d1ff3d6ca96710954dff43108bf0",
+    "download_url": "https://raw.githubusercontent.com/AloneER0/DistroWallpapers/main/LinuxMint/Debian/sele_linuxmint.png",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/AloneER0/DistroWallpapers/contents/LinuxMint/Debian/sele_linuxmint.png?ref=main",
+      "git": "https://api.github.com/repos/AloneER0/DistroWallpapers/git/blobs/43f65ee3a7b8d1ff3d6ca96710954dff43108bf0",
+      "html": "https://github.com/AloneER0/DistroWallpapers/blob/main/LinuxMint/Debian/sele_linuxmint.png"
+    }
+  }
+]

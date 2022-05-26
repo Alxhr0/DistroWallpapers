@@ -1,0 +1,34 @@
+[
+  {
+    "name": "F34_default_wallpaper_day.jpg",
+    "path": "Fedora/Fedora34/F34_default_wallpaper_day.jpg",
+    "sha": "05522d891e524a8d1b8aeb349e104b848f0c3403",
+    "size": 400902,
+    "url": "https://api.github.com/repos/AloneER0/DistroWallpapers/contents/Fedora/Fedora34/F34_default_wallpaper_day.jpg?ref=main",
+    "html_url": "https://github.com/AloneER0/DistroWallpapers/blob/main/Fedora/Fedora34/F34_default_wallpaper_day.jpg",
+    "git_url": "https://api.github.com/repos/AloneER0/DistroWallpapers/git/blobs/05522d891e524a8d1b8aeb349e104b848f0c3403",
+    "download_url": "https://raw.githubusercontent.com/AloneER0/DistroWallpapers/main/Fedora/Fedora34/F34_default_wallpaper_day.jpg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/AloneER0/DistroWallpapers/contents/Fedora/Fedora34/F34_default_wallpaper_day.jpg?ref=main",
+      "git": "https://api.github.com/repos/AloneER0/DistroWallpapers/git/blobs/05522d891e524a8d1b8aeb349e104b848f0c3403",
+      "html": "https://github.com/AloneER0/DistroWallpapers/blob/main/Fedora/Fedora34/F34_default_wallpaper_day.jpg"
+    }
+  },
+  {
+    "name": "F34_default_wallpaper_night.jpg",
+    "path": "Fedora/Fedora34/F34_default_wallpaper_night.jpg",
+    "sha": "6f8314af44020785079be029b8f882328278a8c0",
+    "size": 375672,
+    "url": "https://api.github.com/repos/AloneER0/DistroWallpapers/contents/Fedora/Fedora34/F34_default_wallpaper_night.jpg?ref=main",
+    "html_url": "https://github.com/AloneER0/DistroWallpapers/blob/main/Fedora/Fedora34/F34_default_wallpaper_night.jpg",
+    "git_url": "https://api.github.com/repos/AloneER0/DistroWallpapers/git/blobs/6f8314af44020785079be029b8f882328278a8c0",
+    "download_url": "https://raw.githubusercontent.com/AloneER0/DistroWallpapers/main/Fedora/Fedora34/F34_default_wallpaper_night.jpg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/AloneER0/DistroWallpapers/contents/Fedora/Fedora34/F34_default_wallpaper_night.jpg?ref=main",
+      "git": "https://api.github.com/repos/AloneER0/DistroWallpapers/git/blobs/6f8314af44020785079be029b8f882328278a8c0",
+      "html": "https://github.com/AloneER0/DistroWallpapers/blob/main/Fedora/Fedora34/F34_default_wallpaper_night.jpg"
+    }
+  }
+]
