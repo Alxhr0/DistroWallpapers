@@ -1,0 +1,10 @@
+{
+    "label": "RHEL",
+    "position": 1,
+    "link": {
+      "type": "generated-index",
+      "title": "Red Hat Enterprise Linux",
+      "slug": "/walls/rhel"
+    }
+  }
+  
