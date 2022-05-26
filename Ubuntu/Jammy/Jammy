@@ -1,0 +1,18 @@
+[
+  {
+    "name": "jammy-jellyfish-wallpaper.jpg",
+    "path": "Ubuntu/Jammy/jammy-jellyfish-wallpaper.jpg",
+    "sha": "628f8d63bcff81acbf7d1d00b740f84961c183a5",
+    "size": 75620,
+    "url": "https://api.github.com/repos/AloneER0/DistroWallpapers/contents/Ubuntu/Jammy/jammy-jellyfish-wallpaper.jpg?ref=main",
+    "html_url": "https://github.com/AloneER0/DistroWallpapers/blob/main/Ubuntu/Jammy/jammy-jellyfish-wallpaper.jpg",
+    "git_url": "https://api.github.com/repos/AloneER0/DistroWallpapers/git/blobs/628f8d63bcff81acbf7d1d00b740f84961c183a5",
+    "download_url": "https://raw.githubusercontent.com/AloneER0/DistroWallpapers/main/Ubuntu/Jammy/jammy-jellyfish-wallpaper.jpg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/AloneER0/DistroWallpapers/contents/Ubuntu/Jammy/jammy-jellyfish-wallpaper.jpg?ref=main",
+      "git": "https://api.github.com/repos/AloneER0/DistroWallpapers/git/blobs/628f8d63bcff81acbf7d1d00b740f84961c183a5",
+      "html": "https://github.com/AloneER0/DistroWallpapers/blob/main/Ubuntu/Jammy/jammy-jellyfish-wallpaper.jpg"
+    }
+  }
+]
