@@ -17,7 +17,7 @@ const config = {
     },
   ],
   title: "Distro Wallpapers",
-  url: "https://your-docusaurus-test-site.com",
+  url: "https://distrowall.pages.dev/",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
