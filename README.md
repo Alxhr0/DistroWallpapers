@@ -18,7 +18,7 @@ None of these wallpapers are owned by the contributors unless specified, If you 
 
 3. Are there gonna be only wallpapers from distros?
 
-   No there will be a chance for some wallpapers from Desktop Environments to appear.
+   Yes there will be a chance for some wallpapers from Desktop Environments to appear.
 
 # Contributors 
 
