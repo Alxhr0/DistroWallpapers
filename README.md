@@ -10,7 +10,7 @@ None of these wallpapers are owned by the contributors unless specified, If you 
 
 1.  Why this repo exists?
     
-    Well it's more of a fun project rather than a serious repo but to the main point of the quesition. This repo exists because of it being more of a hobby i guess.
+    Well it's more of a fun project rather than a serious repo but to the main point of the question. This repo exists because of it being more of a hobby i guess.
 
 2.  Can i request wallpapers from a distro that isn't in the repo?
     
